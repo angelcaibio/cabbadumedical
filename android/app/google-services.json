@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "360012612737",
+    "project_id": "cabaddu-medical-circle-1bd99",
+    "storage_bucket": "cabaddu-medical-circle-1bd99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360012612737:android:2c9f526345242cc5e17980",
+        "android_client_info": {
+          "package_name": "cabaddumedical.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLmp2aUQI4jGGYFPYPVMXKbhspc0GaLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360012612737:android:1264683588e41e30e17980",
+        "android_client_info": {
+          "package_name": "cabaddumedical.doctors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLmp2aUQI4jGGYFPYPVMXKbhspc0GaLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360012612737:android:c11254dae03c1293e17980",
+        "android_client_info": {
+          "package_name": "cabaddumedical.laboratories"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLmp2aUQI4jGGYFPYPVMXKbhspc0GaLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360012612737:android:f9d496d39724f6ece17980",
+        "android_client_info": {
+          "package_name": "cabaddumedical.patients"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLmp2aUQI4jGGYFPYPVMXKbhspc0GaLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
